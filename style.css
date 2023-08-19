@@ -15,7 +15,7 @@ body{
     flex-direction: column;
     width: 100%;
     height: 100vh;
-    background: url(/imagens/demonslayer.gif.gif);
+    background: url(imagens/demonslayer.gif.gif);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -48,7 +48,7 @@ body{
     position: relative;
     width: 170px;
     height: 50px;
-    background-image: url(/imagens/logo\ netflix.png);
+    background-image: url(imagens/logo\ netflix.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 50px;
@@ -60,7 +60,7 @@ body{
     position: relative;
     width: 20px;
     height: 20px;
-    background-image: url(/imagens/lupa22.png);
+    background-image: url(imagens/lupa22.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 500px;
@@ -71,7 +71,7 @@ body{
     position: relative;
     width: 25px;
     height: 25px;
-    background-image: url(/imagens/sino22.png);
+    background-image: url(imagens/sino22.png);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 20px;
@@ -82,7 +82,7 @@ body{
     position: relative;
     width: 25px;
     height: 25px;
-    background-image: url(/imagens/avatar.jpg);
+    background-image: url(imagens/avatar.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 20px;
@@ -148,7 +148,7 @@ h3{
     position: absolute;
     width: 250px;
     height: 150px;
-    background-image: url(/imagens/Demon\ Slayer.jpg);
+    background-image: url(imagens/Demon\ Slayer.jpg);
     background-size: cover;
     float: left;
     margin-left: 50px;
@@ -159,7 +159,7 @@ h3{
     position: absolute;
     width: 250px;
     height: 150px;
-    background-image: url(/imagens/B99.jpg);
+    background-image: url(imagens/B99.jpg);
     background-size: cover;
     float: left;
     margin-left: 310px;
@@ -170,7 +170,7 @@ h3{
     position: absolute;
     width: 250px;
     height: 150px;
-    background-image: url(/imagens/Agente\ Stone.jpg);
+    background-image: url(imagens/Agente\ Stone.jpg);
     background-size: cover;
     float: left;
     margin-left: 570px;
@@ -181,7 +181,7 @@ h3{
     position: absolute;
     width: 250px;
     height: 150px;
-    background-image: url(/imagens/Django.jpg);
+    background-image: url(imagens/Django.jpg);
     background-size: cover;
     float: left;
     margin-left: 830px;
@@ -192,7 +192,7 @@ h3{
     position: absolute;
     width: 250px;
     height: 150px;
-    background-image: url(/imagens/Jovem\ Sheldon.jpg);
+    background-image: url(imagens/Jovem\ Sheldon.jpg);
     background-size: cover;
     float: left;
     margin-left: 1090px;
